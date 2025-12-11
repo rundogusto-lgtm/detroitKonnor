@@ -73,15 +73,17 @@ cd rk800-connor
 
 🗂️ Структура проекта
 rk800-connor/
-├── index.html                  # Главный файл (все в одном HTML)
-├── README.md                   # Документация
-└── (предполагаемая структура)
-    └── images/                 # Папка для изображений
-        ├── connor-profile.jpg
-        └── gallery/
-            ├── connor1.jpg
-            ├── connor2.jpg
-            └── ...
+├── index.html
+├── README.md
+└── images/
+    ├── connor-profile.jpg
+    └── gallery/
+        ├── connor1.jpg
+        ├── connor2.jpg
+        ├── connor3.jpg
+        ├── connor4.jpg
+        ├── connor5.jpg
+        └── connor6.jpg
 🎨 Особенности дизайна
 Цветовая схема
 Основной фон: #0a0e17 (темно-синий космос)
