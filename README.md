@@ -72,17 +72,16 @@ cd rk800-connor
 Замените в HTML action="https://formspree.io/f/xyzrnkre" на ваш URL
 
 🗂️ Структура проекта
- text
- rk800-connor/
- ├── index.html              # Главный HTML файл
- ├── images/                 # Папка с изображениями
- │   ├── connor-profile.jpg  # Основное фото Коннора
- │   └── gallery/            # Галерея изображений
- │       ├── connor1.jpg
- │       ├── connor2.jpg
- │       └── ... (6 файлов)
- ├── README.md               # Этот файл
- └── .gitignore             
+rk800-connor/
+├── index.html                  # Главный файл (все в одном HTML)
+├── README.md                   # Документация
+└── (предполагаемая структура)
+    └── images/                 # Папка для изображений
+        ├── connor-profile.jpg
+        └── gallery/
+            ├── connor1.jpg
+            ├── connor2.jpg
+            └── ...
 🎨 Особенности дизайна
 Цветовая схема
 Основной фон: #0a0e17 (темно-синий космос)
